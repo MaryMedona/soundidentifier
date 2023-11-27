@@ -1,0 +1,42 @@
+body
+{
+font-family: 'Vina Sans';
+background:yellow;
+}
+
+.header_div
+{
+    background:rgb(117, 199, 231);
+    color:purple;
+}
+
+.header_div p
+{
+font-family: Ephesis;
+color:red;
+letter-spacing: 2px;
+font-size: 20px;
+font-weight: bold;
+}
+
+.main_div button
+{
+font-family: 'Times New Roman';
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    color:darkgreen;
+    bottom:0;
+    width:100%;
+    font-size:18px ;
+    background-color: aqua;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px orangered;
+}
